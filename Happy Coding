@@ -1,0 +1,14 @@
+# include <iostream>
+using namespace std;
+int main()
+{
+String firstname,lastname;
+
+Cout<<"Enter your first name."<<endl;
+getline(cin,firstname);
+
+Cout<<"Enter your last name."<<endl;
+getline(cin,lastname);
+
+Cout <<"Your Full name is " firstname ,lastname <<endl;
+}
